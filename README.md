@@ -114,3 +114,4 @@ Feel free to explore, engage, and contribute to this repository by sharing your 
 89|2/23/2023|South Africa|Mcebisi Qabaqaba|[Integrating random forest and synthetic aperture radar improves the estimation and monitoring of woody cover in indigenous forests of South Africa](https://link.springer.com/article/10.1007/s12518-023-00497-9)
 90|3/23/2023|Brazil|Edson Eyji Sano|[Estimating Double Cropping Plantations in the Brazilian Cerrado through PlanetScope Monthly Mosaics](https://www.mdpi.com/2073-445X/12/3/581)
 91|8/23/2023|Kenya|Stefanie Mehlich|[The role of the anthropogenic fire regime in protected areas in Kenya : a case study in the Mau Forest region Kenya : a case study in the Mau Forest region](https://louis.uah.edu/cgi/viewcontent.cgi?article=1530&context=uah-theses)
+
