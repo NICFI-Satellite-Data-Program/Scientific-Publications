@@ -19,6 +19,9 @@ In this repository you will find a list of research publications that leverage t
 
 This resource is the result of an ongoing effort and we welcome your input, updates and corrections. Feel free to explore, engage, and contribute to this repository by sharing your Journal Article, Thesis, Conference Presentation / Poster, etc. by emailing nicfi-servicedesk@ksat.no with subject "NICFI Satellite Data Program - publication contribution" or create a discussion with a brief description of the paper and its relevance.
 
+## Contact Information
+To sign up to the Program, inquiries and support, please visit [NICFI Satellite Data Program](https://www.planet.com/nicfi/). You can also join our [Planet Community](https://community.planet.com/nicfi-satellite-data-program-38) for discussions and updates.
+
 ## Acknowledgements
 We extend our sincere gratitude to the authors for their invaluable contributions.
 
