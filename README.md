@@ -17,7 +17,7 @@ In this repository, you will find a list of research papers,that leverage NICFI 
 
 ## Contributing
 
-Feel free to explore, engage, and contribute to this repository by sharing your Journal Article, Thesis, Conference Presentation / Poster, etc. by emailing nicfi-servicedesk@ksat.no with subject "NICFI Satellite Data Program - code contribution" or create a pull request with a brief description of the paper and its relevance.
+Feel free to explore, engage, and contribute to this repository by sharing your Journal Article, Thesis, Conference Presentation / Poster, etc. by emailing nicfi-servicedesk@ksat.no with subject "NICFI Satellite Data Program - code contribution" or create a discussion with a brief description of the paper and its relevance.
 
 ## Acknowledgements
 We extend our sincere gratitude to the authors for their invaluable contributions.
