@@ -8,7 +8,7 @@
 
 ## Contents
 
-In this repository you will find a list of research publications that leverage NICFI Basemaps for a wide range of applications. These papers cover topics such as:
+In this repository you will find a list of research publications that leverage the NICFI Satellite Data Program datasets for a wide range of applications, such as:
 
 - Forest Change Detection
 - Deforestation Detection and Alerting
@@ -17,7 +17,7 @@ In this repository you will find a list of research publications that leverage N
 
 ## Contributing
 
-These resources are the results of an ongoing effort and we welcome your input, updates and corrections. Feel free to explore, engage, and contribute to this repository by sharing your Journal Article, Thesis, Conference Presentation / Poster, etc. by emailing nicfi-servicedesk@ksat.no with subject "NICFI Satellite Data Program - publication contribution" or create a discussion with a brief description of the paper and its relevance.
+This resource is the result of an ongoing effort and we welcome your input, updates and corrections. Feel free to explore, engage, and contribute to this repository by sharing your Journal Article, Thesis, Conference Presentation / Poster, etc. by emailing nicfi-servicedesk@ksat.no with subject "NICFI Satellite Data Program - publication contribution" or create a discussion with a brief description of the paper and its relevance.
 
 ## Acknowledgements
 We extend our sincere gratitude to the authors for their invaluable contributions.
