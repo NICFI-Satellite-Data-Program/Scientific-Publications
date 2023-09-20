@@ -1,6 +1,6 @@
-# NICFI Satellite Data Program research publications
+# NICFI Satellite Data Program scientific publications
 
-> This repository feautures research publications that use NICFI Basemaps.<br>
+> This repository feautures published academic work that use the data made available by the NICFI Satellite Data Program.<br>
 
 <p align="center">
   <img width="200" height="" src="image.jfif">
@@ -8,7 +8,7 @@
 
 ## Contents
 
-In this repository you will find a list of research papers that leverage NICFI Basemaps for a wide range of applications. These papers cover topics such as:
+In this repository you will find a list of research publications that leverage NICFI Basemaps for a wide range of applications. These papers cover topics such as:
 
 - Forest Change Detection
 - Deforestation Detection and Alerting
@@ -17,14 +17,14 @@ In this repository you will find a list of research papers that leverage NICFI B
 
 ## Contributing
 
-Feel free to explore, engage, and contribute to this repository by sharing your Journal Article, Thesis, Conference Presentation / Poster, etc. by emailing nicfi-servicedesk@ksat.no with subject "NICFI Satellite Data Program - publication contribution" or create a discussion with a brief description of the paper and its relevance.
+These resources are the results of an ongoing effort and we welcome your input, updates and corrections. Feel free to explore, engage, and contribute to this repository by sharing your Journal Article, Thesis, Conference Presentation / Poster, etc. by emailing nicfi-servicedesk@ksat.no with subject "NICFI Satellite Data Program - publication contribution" or create a discussion with a brief description of the paper and its relevance.
 
 ## Acknowledgements
 We extend our sincere gratitude to the authors for their invaluable contributions.
 
 ## Publications
 
-**Number** | **Publication** | **Study region** | **Lead Author** | **Article Link** |
+**Number** | **Publication Date** | **Study Region** | **Lead Author** | **Link to Publication** |
 ---|---|---|---|---|
 1|8/23/2023|Fiji|Ashwini R Malipatil|[Investigation and Monitoring Deforestation by Evaluating the Satellite Images and Machine Learning](https://ieeexplore.ieee.org/document/10199460/keywords#keywords)
 2|7/23/2023|Southeast Asia|Yang Feng|[Improved fine-scale tropical forest cover mapping for Southeast Asia using Planet-NICFI and Sentinel-1 imagery](https://spj.science.org/doi/pdf/10.34133/remotesensing.0064)
