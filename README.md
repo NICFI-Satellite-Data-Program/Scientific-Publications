@@ -120,7 +120,7 @@ We extend our sincere gratitude to the authors for their invaluable contribution
 89|South Africa|Qabaqaba  Mcebisi|[Integrating random forest and synthetic aperture radar improves the estimation and monitoring of woody cover in indigenous forests of South Africa](https://link.springer.com/article/10.1007/s12518-023-00497-9)|Journal Article| Forest Change Detection      Indigenous Peoples and Local Communities (IPLC)  
 90|Brazil|Sano  Edson Eyji|[Estimating Double Cropping Plantations in the Brazilian Cerrado through PlanetScope Monthly Mosaics](https://www.mdpi.com/2073-445X/12/3/581)|Journal Article|Agriculture   Land Cover and Land Use Mapping             
 
-## Conference and papers presentations
+## Conference and posters
 
 **Number** | **Study region** | **Lead Author** | **Link to Conference / Presentation** | **Keyword** | 
 ---|---|---|---|---|
